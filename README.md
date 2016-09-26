@@ -1,2 +1,3 @@
 # goreti
-Site de Goreti
+Site de Goreti.
+Atualização de teste do comando git pull.
